@@ -1,0 +1,21 @@
+product_id,product_name,price,unit,stall_owner,image
+1,Tomato,80.00,kg,Aling Nena's Stall,tomato.svg
+2,Carrot,90.00,kg,Mang Ben's Gulayan,carrot.svg
+3,Eggplant,70.00,kg,Aling Rosa's Stall,eggplant.svg
+4,Potato,85.00,kg,Mang Tonyo's Stall,potato.svg
+5,Red Onion,160.00,kg,Aling Lorna's Stall,red_onion.svg
+6,Garlic,140.00,kg,Mang Pedring's Stall,garlic.svg
+7,Sweet Corn,25.00,piece,Mang Kanor's Maisan,sweet_corn.svg
+8,Cucumber,60.00,kg,Aling Tess's Stall,cucumber.svg
+9,Broccoli,75.00,piece,Aling Cora's Stall,broccoli.svg
+10,Pechay,30.00,pack,Mang Ramon's Gulayan,pechay.svg
+11,Bell Pepper,200.00,kg,Aling Susan's Stall,bell_pepper.svg
+12,Siling Labuyo,20.00,pack,Mang Jun's Stall,siling_labuyo.svg
+13,Carabao Mango,150.00,kg,Aling Mely's Prutasan,carabao_mango.svg
+14,Lakatan Banana,90.00,kg,Mang Dado's Prutasan,lakatan_banana.svg
+15,Pineapple,70.00,piece,Aling Baby's Prutasan,pineapple.svg
+16,Young Coconut,45.00,piece,Mang Isko's Stall,young_coconut.svg
+17,Watermelon,55.00,kg,Aling Pining's Prutasan,watermelon.svg
+18,Fresh Eggs (12 pcs),110.00,pack,Mang Celso's Itlugan,fresh_eggs.svg
+19,Tilapia,140.00,kg,Aling Didang's Isdaan,tilapia.svg
+20,Mushroom,60.00,pack,Mang Lito's Stall,mushroom.svg
